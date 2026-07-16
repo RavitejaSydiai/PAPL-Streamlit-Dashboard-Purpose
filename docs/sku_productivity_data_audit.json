@@ -1,0 +1,19 @@
+{
+  "sheet": "Original Ver",
+  "manufacturer": "PARLE AGRO",
+  "period": "Apr 25 - Sep 25",
+  "source_metric_rows": 1943,
+  "state_item_fact_keys": 1943,
+  "observations_per_key": {
+    "1": 1943
+  },
+  "duplicate_keys": 0,
+  "conflicting_duplicate_keys": 0,
+  "paired_state_items": 951,
+  "nd_min": 0.0,
+  "nd_max": 69.658,
+  "ros_min": 0.0,
+  "ros_max": 65.776,
+  "duplicate_dimension_variants": 0,
+  "examples": []
+}
