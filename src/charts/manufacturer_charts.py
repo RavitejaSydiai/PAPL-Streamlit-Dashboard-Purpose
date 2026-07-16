@@ -18,7 +18,7 @@ def colors(df,metric):
     return [PARLE_COLOR if m==PARLE else LEADER_COLOR if m==leader else OTHER for m in df.Manufacturer]
 def bar_metric(wide,state,category,metric,title,top_n=15):
     d=subset(wide,state,category).dropna(subset=[metric]).nlargest(top_n,metric).sort_values(metric)
-    fig=go.Figure(go.Bar(x=d[metric],y=d.Manufacturer,orientation="h",marker_color=colors(d,metric),text=[f"{v:,.2f}" for v in d[metric]],textposition="outside",customdata=d.Manufacturer,hovertemplate="%{customdata}<br>Value: %{x:,.3f}<extra></extra>"))
+    fig=go.Figure(go.Bar(x=d[metric],y=d.Manufacturer,orientation="h",marker_color=colors(d,metric),text=[f"{v:,.2f}" for v in d[metric]],textposition="auto",insidetextanchor="end",customdata=d.Manufacturer,hovertemplate="%{customdata}<br>Value: %{x:,.3f}<extra></extra>"))
     fig.update_layout(title=f"{title}<br><sup>{state} · {category}</sup>",xaxis_title=metric,yaxis_title="",margin=dict(l=220,r=70,t=90,b=60)); return fig
 def scatter(wide,state,category,x,y,size,title,top_n=12):
     cols=["Manufacturer",x,y,size]; d=subset(wide,state,category).dropna(subset=[x,y,size]).nlargest(top_n,size)
