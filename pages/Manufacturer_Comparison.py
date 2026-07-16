@@ -9,9 +9,9 @@ from src.charts.manufacturer_charts import bar_metric,scatter,SALES,SHARE,ND,WD,
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/"data"/"processed"
 st.set_page_config(page_title="Manufacturer Comparison",layout="wide")
 st.markdown("""<style>
-[data-testid="stMetricValue"] {font-size: 1.25rem !important; line-height: 1.2 !important; overflow-wrap: anywhere;}
-[data-testid="stMetricLabel"] {font-size: .78rem !important;}
-[data-testid="stMetric"] {padding: .55rem .6rem !important; min-width: 0;}
+[data-testid="stMetricValue"], [data-testid="stMetricValue"] * {font-size: .92rem !important; line-height: 1.15 !important; overflow-wrap: anywhere !important; word-break: break-word !important; white-space: normal !important;}
+[data-testid="stMetricLabel"], [data-testid="stMetricLabel"] * {font-size: .68rem !important; line-height: 1.1 !important;}
+[data-testid="stMetric"] {padding: .4rem .45rem !important; min-width: 0;}
 </style>""",unsafe_allow_html=True)
 st.title("Manufacturer Comparison · Original Ver")
 wide=pd.read_parquet(DATA/"manufacturer_dashboard_views.parquet")
