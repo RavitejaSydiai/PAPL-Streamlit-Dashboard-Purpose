@@ -1,0 +1,59 @@
+State,S4CATEGORY,Parle_Rank,Leader,Parle_Value,Leader_Value,Gap,Diagnosis,Recommendation
+Andhra Pradesh,MANGO DRINKS,2.0,COCA-COLA INDIA,1016385.0160000002,17802636.968000002,16786251.952000003,Store Coverage Gap,Expand numeric distribution
+Andhra Pradesh,MILK DRINKS,5.0,CREAMLINE DAIRY,263005.074,1078588.276,815583.202,"High Distribution, Low Productivity",Improve rate of sale
+Andhra Pradesh,PACKAGED PLAIN WATER,6.0,COCA-COLA INDIA,1022343.8359999999,9450240.814000001,8427896.978000002,"Strong Productivity, Low Distribution",Expand numeric distribution
+Andhra Pradesh,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Andhra Pradesh,RTD SUGAR,5.0,COCA-COLA INDIA,2439518.624,133605866.94799998,131166348.32399999,Store Coverage Gap,Expand numeric distribution
+Delhi,MANGO DRINKS,1.0,PARLE AGRO,6440160.672,6440160.672,0.0,Market Leader,Defend market leadership
+Delhi,MILK DRINKS,2.0,VARUN BEVERAGES,608744.5920000001,683104.916,74360.3239999999,Weak Consumer Offtake,Improve rate of sale
+Delhi,PACKAGED PLAIN WATER,4.0,BISLERI INTERNATIONAL PVT LTD,372600.32,5400624.181,5028023.861,Store Coverage Gap,Expand numeric distribution
+Delhi,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Delhi,RTD SUGAR,5.0,COCA-COLA INDIA,870848.2719999999,52890869.852,52020021.58,Store Coverage Gap,Expand numeric distribution
+Gujarat,MANGO DRINKS,2.0,COCA-COLA INDIA,1030847.305,4239527.637,3208680.332,Store Coverage Gap,Expand numeric distribution
+Gujarat,MILK DRINKS,2.0,G C M M F,304341.013,655579.389,351238.376,Insufficient Evidence,Insufficient evidence
+Gujarat,PACKAGED PLAIN WATER,42.0,COCA-COLA INDIA,170049.168,2260482.706,2090433.5379999997,Store Coverage Gap,Expand numeric distribution
+Gujarat,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Gujarat,RTD SUGAR,6.0,COCA-COLA INDIA,501088.027,23821356.517,23320268.490000002,Store Coverage Gap,Expand numeric distribution
+Haryana,MANGO DRINKS,1.0,PARLE AGRO,6365279.03,6365279.03,0.0,Market Leader,Defend market leadership
+Haryana,MILK DRINKS,4.0,VARUN BEVERAGES,98870.124,776837.861,677967.7370000001,Store Coverage Gap,Expand numeric distribution
+Haryana,RTD SUGAR,4.0,COCA-COLA INDIA,692111.921,52936515.894,52244403.973000005,Store Coverage Gap,Expand numeric distribution
+Karnataka,MANGO DRINKS,3.0,COCA-COLA INDIA,1659665.548,5573610.432999999,3913944.8849999993,Store Coverage Gap,Expand numeric distribution
+Karnataka,MILK DRINKS,1.0,PARLE AGRO,948749.077,948749.077,0.0,Market Leader,Defend market leadership
+Karnataka,PACKAGED PLAIN WATER,40.0,BISLERI INTERNATIONAL PVT LTD,213104.349,3133780.357,2920676.008,Store Coverage Gap,Expand numeric distribution
+Karnataka,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Karnataka,RTD SUGAR,7.0,COCA-COLA INDIA,588046.313,26120514.300000004,25532467.987000003,Store Coverage Gap,Expand numeric distribution
+Maharashtra,MANGO DRINKS,2.0,COCA-COLA INDIA,5097798.363,10447616.868,5349818.505000001,Insufficient Evidence,Insufficient evidence
+Maharashtra,MILK DRINKS,1.0,PARLE AGRO,1572087.3199999998,1572087.3199999998,0.0,Market Leader,Defend market leadership
+Maharashtra,PACKAGED PLAIN WATER,5.0,BISLERI INTERNATIONAL PVT LTD,1562447.7259999998,6306111.2930000005,4743663.567000001,Store Coverage Gap,Expand numeric distribution
+Maharashtra,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Maharashtra,RTD SUGAR,5.0,COCA-COLA INDIA,1920533.4060000002,67311703.24299999,65391169.83699998,Store Coverage Gap,Expand numeric distribution
+Punjab,MANGO DRINKS,2.0,COCA-COLA INDIA,697105.294,5860913.255999999,5163807.961999999,Store Coverage Gap,Expand numeric distribution
+Punjab,MILK DRINKS,7.0,VARUN BEVERAGES,54465.39599999999,770836.4239999999,716371.0279999999,Store Coverage Gap,Expand numeric distribution
+Punjab,PACKAGED PLAIN WATER,4.0,COCA-COLA INDIA,91867.527,2911007.705,2819140.1780000003,Store Coverage Gap,Expand numeric distribution
+Punjab,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Punjab,RTD SUGAR,4.0,COCA-COLA INDIA,615834.1939999999,46227380.129,45611545.935,Store Coverage Gap,Expand numeric distribution
+Rajasthan,MANGO DRINKS,3.0,COCA-COLA INDIA,2356113.0959999994,15326207.134,12970094.038,Store Coverage Gap,Expand numeric distribution
+Rajasthan,MILK DRINKS,8.0,VARUN BEVERAGES,73278.216,802277.314,728999.098,Store Coverage Gap,Expand numeric distribution
+Rajasthan,PACKAGED PLAIN WATER,14.0,BISLERI INTERNATIONAL PVT LTD,704901.344,8530339.969999999,7825438.625999998,Store Coverage Gap,Expand numeric distribution
+Rajasthan,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Rajasthan,RTD SUGAR,3.0,PEPSICO INDIA,5818947.757999999,117078232.00400001,111259284.246,"High Distribution, Low Productivity",Improve rate of sale
+Tamil Nadu,MANGO DRINKS,5.0,COCA-COLA INDIA,1814117.669,4191460.678,2377343.0089999996,Store Coverage Gap,Expand numeric distribution
+Tamil Nadu,MILK DRINKS,,,,,,Insufficient Evidence,Insufficient evidence
+Tamil Nadu,PACKAGED PLAIN WATER,97.0,PEPSICO INDIA,92128.66500000001,2110136.032,2018007.367,Store Coverage Gap,Expand numeric distribution
+Tamil Nadu,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Tamil Nadu,RTD SUGAR,9.0,PEPSICO INDIA,912843.997,15882401.307,14969557.31,Store Coverage Gap,Expand numeric distribution
+Telangana,MANGO DRINKS,2.0,COCA-COLA INDIA,550278.1039999999,9472227.557999998,8921949.453999998,Store Coverage Gap,Expand numeric distribution
+Telangana,MILK DRINKS,4.0,CREAMLINE DAIRY,209376.91100000002,1007885.871,798508.96,"High Distribution, Low Productivity",Improve rate of sale
+Telangana,PACKAGED PLAIN WATER,4.0,COCA-COLA INDIA,945568.381,4194872.284,3249303.903,Store Coverage Gap,Expand numeric distribution
+Telangana,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Telangana,RTD SUGAR,2.0,COCA-COLA INDIA,1740136.8490000002,45675440.746,43935303.897,"High Distribution, Low Productivity",Improve rate of sale
+Uttar Pradesh,MANGO DRINKS,2.0,COCA-COLA INDIA,24643539.521000005,29666863.603000004,5023324.081999999,Insufficient Evidence,Insufficient evidence
+Uttar Pradesh,MILK DRINKS,3.0,VARUN BEVERAGES,420502.996,1257687.045,837184.0489999999,Store Coverage Gap,Expand numeric distribution
+Uttar Pradesh,PACKAGED PLAIN WATER,7.0,COCA-COLA INDIA,1425654.9,22322299.639,20896644.739,Store Coverage Gap,Expand numeric distribution
+Uttar Pradesh,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+Uttar Pradesh,RTD SUGAR,5.0,COCA-COLA INDIA,3632923.667,218889403.057,215256479.39000002,Store Coverage Gap,Expand numeric distribution
+West Bengal,MANGO DRINKS,2.0,COCA-COLA INDIA,4534327.494000001,8712790.996000001,4178463.5020000003,Insufficient Evidence,Insufficient evidence
+West Bengal,MILK DRINKS,6.0,G C M M F,111962.329,1283153.1940000001,1171190.8650000002,"High Distribution, Low Productivity",Improve rate of sale
+West Bengal,PACKAGED PLAIN WATER,33.0,COCA-COLA INDIA,180004.239,2684975.113,2504970.874,Store Coverage Gap,Expand numeric distribution
+West Bengal,RTD MIXERS,,,,,,Insufficient Evidence,Insufficient evidence
+West Bengal,RTD SUGAR,4.0,COCA-COLA INDIA,431880.559,39750120.812,39318240.253,Store Coverage Gap,Expand numeric distribution

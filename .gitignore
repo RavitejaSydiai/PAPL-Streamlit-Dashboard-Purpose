@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.tmp/
+.pytest_cache/
+pytest-cache-files-*/
+.agents/
+
+# Raw and backup workbooks are not required by the deployed dashboard.
+data/*.xlsx
+data/*backup*
+
+# Generated review documents and local exports.
+docs/*.pptx
+docs/*.docx
+docs/*.zip
+docs/*_Package/
+docs/PAPL_National_Insights_unpacked/
+
+# Local logs and secrets.
+*.log
+.streamlit/secrets.toml

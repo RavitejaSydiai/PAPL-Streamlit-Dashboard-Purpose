@@ -1,0 +1,878 @@
+[
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 1,016,385.02; COCA-COLA INDIA leads at 17,802,636.97, a gap of 16,786,251.95 (94.3% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":1016385.0160000002,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":17802636.9680000022,
+    "Gap":16786251.9520000033,
+    "State":"Andhra Pradesh",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"High Distribution, Low Productivity",
+    "Recommendation":"Improve rate of sale",
+    "Triggered_Metrics":[
+      "Numeric Distribution Handling (C)",
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 263,005.07; CREAMLINE DAIRY leads at 1,078,588.28, a gap of 815,583.20 (75.6% of leader value). Primary diagnosis: High Distribution, Low Productivity. Recommended action: Improve rate of sale. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":263005.074,
+    "Leader":"CREAMLINE DAIRY",
+    "Leader_Value":1078588.2760000001,
+    "Gap":815583.202,
+    "State":"Andhra Pradesh",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Strong Productivity, Low Distribution",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Numeric Distribution Handling (C)",
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 6 by Sales Value at 1,022,343.84; COCA-COLA INDIA leads at 9,450,240.81, a gap of 8,427,896.98 (89.2% of leader value). Primary diagnosis: Strong Productivity, Low Distribution. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":6.0,
+    "Parle_Value":1022343.8359999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":9450240.8140000012,
+    "Gap":8427896.978000002,
+    "State":"Andhra Pradesh",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Andhra Pradesh",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 2,439,518.62; COCA-COLA INDIA leads at 133,605,866.95, a gap of 131,166,348.32 (98.2% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":2439518.6239999998,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":133605866.947999984,
+    "Gap":131166348.3239999861,
+    "State":"Andhra Pradesh",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Market Leader",
+    "Recommendation":"Defend market leadership",
+    "Triggered_Metrics":[
+      "Sales Value (000)"
+    ],
+    "Insight":"Parle ranks 1 by Sales Value at 6,440,160.67; PARLE AGRO leads at 6,440,160.67, a gap of 0.00 (0.0% of leader value). Primary diagnosis: Market Leader. Recommended action: Defend market leadership. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":1.0,
+    "Parle_Value":6440160.6720000003,
+    "Leader":"PARLE AGRO",
+    "Leader_Value":6440160.6720000003,
+    "Gap":0.0,
+    "State":"Delhi",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Weak Consumer Offtake",
+    "Recommendation":"Improve rate of sale",
+    "Triggered_Metrics":[
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 608,744.59; VARUN BEVERAGES leads at 683,104.92, a gap of 74,360.32 (10.9% of leader value). Primary diagnosis: Weak Consumer Offtake. Recommended action: Improve rate of sale. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":608744.5920000001,
+    "Leader":"VARUN BEVERAGES",
+    "Leader_Value":683104.916,
+    "Gap":74360.3239999999,
+    "State":"Delhi",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 372,600.32; BISLERI INTERNATIONAL PVT LTD leads at 5,400,624.18, a gap of 5,028,023.86 (93.1% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":372600.32,
+    "Leader":"BISLERI INTERNATIONAL PVT LTD",
+    "Leader_Value":5400624.1809999999,
+    "Gap":5028023.8609999996,
+    "State":"Delhi",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Delhi",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 870,848.27; COCA-COLA INDIA leads at 52,890,869.85, a gap of 52,020,021.58 (98.4% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":870848.2719999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":52890869.8519999981,
+    "Gap":52020021.5799999982,
+    "State":"Delhi",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 1,030,847.31; COCA-COLA INDIA leads at 4,239,527.64, a gap of 3,208,680.33 (75.7% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":1030847.3050000001,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":4239527.6370000001,
+    "Gap":3208680.3319999999,
+    "State":"Gujarat",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 304,341.01; G C M M F leads at 655,579.39, a gap of 351,238.38 (53.6% of leader value). Primary diagnosis: Insufficient Evidence. Recommended action: Insufficient evidence. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":304341.013,
+    "Leader":"G C M M F",
+    "Leader_Value":655579.389,
+    "Gap":351238.376,
+    "State":"Gujarat",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 42 by Sales Value at 170,049.17; COCA-COLA INDIA leads at 2,260,482.71, a gap of 2,090,433.54 (92.5% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":42.0,
+    "Parle_Value":170049.168,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":2260482.7059999998,
+    "Gap":2090433.5379999997,
+    "State":"Gujarat",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Gujarat",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 6 by Sales Value at 501,088.03; COCA-COLA INDIA leads at 23,821,356.52, a gap of 23,320,268.49 (97.9% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":6.0,
+    "Parle_Value":501088.027,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":23821356.5170000009,
+    "Gap":23320268.4900000021,
+    "State":"Gujarat",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Market Leader",
+    "Recommendation":"Defend market leadership",
+    "Triggered_Metrics":[
+      "Sales Value (000)"
+    ],
+    "Insight":"Parle ranks 1 by Sales Value at 6,365,279.03; PARLE AGRO leads at 6,365,279.03, a gap of 0.00 (0.0% of leader value). Primary diagnosis: Market Leader. Recommended action: Defend market leadership. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":1.0,
+    "Parle_Value":6365279.0300000003,
+    "Leader":"PARLE AGRO",
+    "Leader_Value":6365279.0300000003,
+    "Gap":0.0,
+    "State":"Haryana",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 98,870.12; VARUN BEVERAGES leads at 776,837.86, a gap of 677,967.74 (87.3% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":98870.124,
+    "Leader":"VARUN BEVERAGES",
+    "Leader_Value":776837.861,
+    "Gap":677967.7370000001,
+    "State":"Haryana",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 692,111.92; COCA-COLA INDIA leads at 52,936,515.89, a gap of 52,244,403.97 (98.7% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":692111.921,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":52936515.8940000013,
+    "Gap":52244403.9730000049,
+    "State":"Haryana",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 3 by Sales Value at 1,659,665.55; COCA-COLA INDIA leads at 5,573,610.43, a gap of 3,913,944.88 (70.2% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":3.0,
+    "Parle_Value":1659665.548,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":5573610.4329999993,
+    "Gap":3913944.8849999993,
+    "State":"Karnataka",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Market Leader",
+    "Recommendation":"Defend market leadership",
+    "Triggered_Metrics":[
+      "Sales Value (000)"
+    ],
+    "Insight":"Parle ranks 1 by Sales Value at 948,749.08; PARLE AGRO leads at 948,749.08, a gap of 0.00 (0.0% of leader value). Primary diagnosis: Market Leader. Recommended action: Defend market leadership. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":1.0,
+    "Parle_Value":948749.077,
+    "Leader":"PARLE AGRO",
+    "Leader_Value":948749.077,
+    "Gap":0.0,
+    "State":"Karnataka",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 40 by Sales Value at 213,104.35; BISLERI INTERNATIONAL PVT LTD leads at 3,133,780.36, a gap of 2,920,676.01 (93.2% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":40.0,
+    "Parle_Value":213104.349,
+    "Leader":"BISLERI INTERNATIONAL PVT LTD",
+    "Leader_Value":3133780.3569999998,
+    "Gap":2920676.0079999999,
+    "State":"Karnataka",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Karnataka",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 7 by Sales Value at 588,046.31; COCA-COLA INDIA leads at 26,120,514.30, a gap of 25,532,467.99 (97.7% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":7.0,
+    "Parle_Value":588046.313,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":26120514.3000000045,
+    "Gap":25532467.9870000035,
+    "State":"Karnataka",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 5,097,798.36; COCA-COLA INDIA leads at 10,447,616.87, a gap of 5,349,818.51 (51.2% of leader value). Primary diagnosis: Insufficient Evidence. Recommended action: Insufficient evidence. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":5097798.3629999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":10447616.8680000007,
+    "Gap":5349818.5050000008,
+    "State":"Maharashtra",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Market Leader",
+    "Recommendation":"Defend market leadership",
+    "Triggered_Metrics":[
+      "Sales Value (000)"
+    ],
+    "Insight":"Parle ranks 1 by Sales Value at 1,572,087.32; PARLE AGRO leads at 1,572,087.32, a gap of 0.00 (0.0% of leader value). Primary diagnosis: Market Leader. Recommended action: Defend market leadership. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":1.0,
+    "Parle_Value":1572087.3199999998,
+    "Leader":"PARLE AGRO",
+    "Leader_Value":1572087.3199999998,
+    "Gap":0.0,
+    "State":"Maharashtra",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 1,562,447.73; BISLERI INTERNATIONAL PVT LTD leads at 6,306,111.29, a gap of 4,743,663.57 (75.2% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":1562447.7259999998,
+    "Leader":"BISLERI INTERNATIONAL PVT LTD",
+    "Leader_Value":6306111.2930000005,
+    "Gap":4743663.5670000007,
+    "State":"Maharashtra",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Maharashtra",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 1,920,533.41; COCA-COLA INDIA leads at 67,311,703.24, a gap of 65,391,169.84 (97.1% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":1920533.4060000002,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":67311703.2429999858,
+    "Gap":65391169.8369999826,
+    "State":"Maharashtra",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 697,105.29; COCA-COLA INDIA leads at 5,860,913.26, a gap of 5,163,807.96 (88.1% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":697105.294,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":5860913.2559999991,
+    "Gap":5163807.9619999994,
+    "State":"Punjab",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 7 by Sales Value at 54,465.40; VARUN BEVERAGES leads at 770,836.42, a gap of 716,371.03 (92.9% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":7.0,
+    "Parle_Value":54465.396,
+    "Leader":"VARUN BEVERAGES",
+    "Leader_Value":770836.4239999999,
+    "Gap":716371.0279999999,
+    "State":"Punjab",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 91,867.53; COCA-COLA INDIA leads at 2,911,007.71, a gap of 2,819,140.18 (96.8% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":91867.527,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":2911007.7050000001,
+    "Gap":2819140.1780000003,
+    "State":"Punjab",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Punjab",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 615,834.19; COCA-COLA INDIA leads at 46,227,380.13, a gap of 45,611,545.94 (98.7% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":615834.1939999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":46227380.1290000007,
+    "Gap":45611545.9350000024,
+    "State":"Punjab",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 3 by Sales Value at 2,356,113.10; COCA-COLA INDIA leads at 15,326,207.13, a gap of 12,970,094.04 (84.6% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":3.0,
+    "Parle_Value":2356113.0959999994,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":15326207.1339999996,
+    "Gap":12970094.0380000006,
+    "State":"Rajasthan",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 8 by Sales Value at 73,278.22; VARUN BEVERAGES leads at 802,277.31, a gap of 728,999.10 (90.9% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":8.0,
+    "Parle_Value":73278.216,
+    "Leader":"VARUN BEVERAGES",
+    "Leader_Value":802277.314,
+    "Gap":728999.098,
+    "State":"Rajasthan",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 14 by Sales Value at 704,901.34; BISLERI INTERNATIONAL PVT LTD leads at 8,530,339.97, a gap of 7,825,438.63 (91.7% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":14.0,
+    "Parle_Value":704901.344,
+    "Leader":"BISLERI INTERNATIONAL PVT LTD",
+    "Leader_Value":8530339.9699999988,
+    "Gap":7825438.6259999983,
+    "State":"Rajasthan",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Rajasthan",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"High Distribution, Low Productivity",
+    "Recommendation":"Improve rate of sale",
+    "Triggered_Metrics":[
+      "Numeric Distribution Handling (C)",
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 3 by Sales Value at 5,818,947.76; PEPSICO INDIA leads at 117,078,232.00, a gap of 111,259,284.25 (95.0% of leader value). Primary diagnosis: High Distribution, Low Productivity. Recommended action: Improve rate of sale. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":3.0,
+    "Parle_Value":5818947.7579999994,
+    "Leader":"PEPSICO INDIA",
+    "Leader_Value":117078232.0040000081,
+    "Gap":111259284.2460000068,
+    "State":"Rajasthan",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 1,814,117.67; COCA-COLA INDIA leads at 4,191,460.68, a gap of 2,377,343.01 (56.7% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":1814117.669,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":4191460.6779999998,
+    "Gap":2377343.0089999996,
+    "State":"Tamil Nadu",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Tamil Nadu",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 97 by Sales Value at 92,128.67; PEPSICO INDIA leads at 2,110,136.03, a gap of 2,018,007.37 (95.6% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":97.0,
+    "Parle_Value":92128.665,
+    "Leader":"PEPSICO INDIA",
+    "Leader_Value":2110136.0320000001,
+    "Gap":2018007.3670000001,
+    "State":"Tamil Nadu",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Tamil Nadu",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 9 by Sales Value at 912,844.00; PEPSICO INDIA leads at 15,882,401.31, a gap of 14,969,557.31 (94.3% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":9.0,
+    "Parle_Value":912843.997,
+    "Leader":"PEPSICO INDIA",
+    "Leader_Value":15882401.307,
+    "Gap":14969557.3100000005,
+    "State":"Tamil Nadu",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 550,278.10; COCA-COLA INDIA leads at 9,472,227.56, a gap of 8,921,949.45 (94.2% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":550278.1039999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":9472227.5579999983,
+    "Gap":8921949.453999998,
+    "State":"Telangana",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"High Distribution, Low Productivity",
+    "Recommendation":"Improve rate of sale",
+    "Triggered_Metrics":[
+      "Numeric Distribution Handling (C)",
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 209,376.91; CREAMLINE DAIRY leads at 1,007,885.87, a gap of 798,508.96 (79.2% of leader value). Primary diagnosis: High Distribution, Low Productivity. Recommended action: Improve rate of sale. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":209376.911,
+    "Leader":"CREAMLINE DAIRY",
+    "Leader_Value":1007885.871,
+    "Gap":798508.96,
+    "State":"Telangana",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 945,568.38; COCA-COLA INDIA leads at 4,194,872.28, a gap of 3,249,303.90 (77.5% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":945568.3810000001,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":4194872.284,
+    "Gap":3249303.9029999999,
+    "State":"Telangana",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Telangana",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"High Distribution, Low Productivity",
+    "Recommendation":"Improve rate of sale",
+    "Triggered_Metrics":[
+      "Numeric Distribution Handling (C)",
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 1,740,136.85; COCA-COLA INDIA leads at 45,675,440.75, a gap of 43,935,303.90 (96.2% of leader value). Primary diagnosis: High Distribution, Low Productivity. Recommended action: Improve rate of sale. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":1740136.8490000002,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":45675440.7459999993,
+    "Gap":43935303.8969999999,
+    "State":"Telangana",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 24,643,539.52; COCA-COLA INDIA leads at 29,666,863.60, a gap of 5,023,324.08 (16.9% of leader value). Primary diagnosis: Insufficient Evidence. Recommended action: Insufficient evidence. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":24643539.5210000053,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":29666863.6030000038,
+    "Gap":5023324.0819999985,
+    "State":"Uttar Pradesh",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 3 by Sales Value at 420,503.00; VARUN BEVERAGES leads at 1,257,687.04, a gap of 837,184.05 (66.6% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":3.0,
+    "Parle_Value":420502.996,
+    "Leader":"VARUN BEVERAGES",
+    "Leader_Value":1257687.0449999999,
+    "Gap":837184.0489999999,
+    "State":"Uttar Pradesh",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 7 by Sales Value at 1,425,654.90; COCA-COLA INDIA leads at 22,322,299.64, a gap of 20,896,644.74 (93.6% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":7.0,
+    "Parle_Value":1425654.8999999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":22322299.6389999986,
+    "Gap":20896644.7390000001,
+    "State":"Uttar Pradesh",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"Uttar Pradesh",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 5 by Sales Value at 3,632,923.67; COCA-COLA INDIA leads at 218,889,403.06, a gap of 215,256,479.39 (98.3% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":5.0,
+    "Parle_Value":3632923.6669999999,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":218889403.0570000112,
+    "Gap":215256479.3900000155,
+    "State":"Uttar Pradesh",
+    "S4CATEGORY":"RTD SUGAR"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Parle ranks 2 by Sales Value at 4,534,327.49; COCA-COLA INDIA leads at 8,712,791.00, a gap of 4,178,463.50 (48.0% of leader value). Primary diagnosis: Insufficient Evidence. Recommended action: Insufficient evidence. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":2.0,
+    "Parle_Value":4534327.4940000009,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":8712790.9960000012,
+    "Gap":4178463.5020000003,
+    "State":"West Bengal",
+    "S4CATEGORY":"MANGO DRINKS"
+  },
+  {
+    "Diagnosis":"High Distribution, Low Productivity",
+    "Recommendation":"Improve rate of sale",
+    "Triggered_Metrics":[
+      "Numeric Distribution Handling (C)",
+      "Unwghtd ROS (VOL UNIT CASES) Handling (C)"
+    ],
+    "Insight":"Parle ranks 6 by Sales Value at 111,962.33; G C M M F leads at 1,283,153.19, a gap of 1,171,190.87 (91.3% of leader value). Primary diagnosis: High Distribution, Low Productivity. Recommended action: Improve rate of sale. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":6.0,
+    "Parle_Value":111962.329,
+    "Leader":"G C M M F",
+    "Leader_Value":1283153.1940000001,
+    "Gap":1171190.8650000002,
+    "State":"West Bengal",
+    "S4CATEGORY":"MILK DRINKS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 33 by Sales Value at 180,004.24; COCA-COLA INDIA leads at 2,684,975.11, a gap of 2,504,970.87 (93.3% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":33.0,
+    "Parle_Value":180004.239,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":2684975.1129999999,
+    "Gap":2504970.8739999998,
+    "State":"West Bengal",
+    "S4CATEGORY":"PACKAGED PLAIN WATER"
+  },
+  {
+    "Diagnosis":"Insufficient Evidence",
+    "Recommendation":"Insufficient evidence",
+    "Triggered_Metrics":[
+
+    ],
+    "Insight":"Insufficient evidence to determine the primary performance driver.",
+    "Parle_Rank":null,
+    "Parle_Value":null,
+    "Leader":null,
+    "Leader_Value":null,
+    "Gap":null,
+    "State":"West Bengal",
+    "S4CATEGORY":"RTD MIXERS"
+  },
+  {
+    "Diagnosis":"Store Coverage Gap",
+    "Recommendation":"Expand numeric distribution",
+    "Triggered_Metrics":[
+      "Number of Stores Retailing (C)"
+    ],
+    "Insight":"Parle ranks 4 by Sales Value at 431,880.56; COCA-COLA INDIA leads at 39,750,120.81, a gap of 39,318,240.25 (98.9% of leader value). Primary diagnosis: Store Coverage Gap. Recommended action: Expand numeric distribution. This uses Apr\u2013Sep 2025 aggregated retail-audit data and does not establish causality.",
+    "Parle_Rank":4.0,
+    "Parle_Value":431880.559,
+    "Leader":"COCA-COLA INDIA",
+    "Leader_Value":39750120.811999999,
+    "Gap":39318240.2529999986,
+    "State":"West Bengal",
+    "S4CATEGORY":"RTD SUGAR"
+  }
+]
